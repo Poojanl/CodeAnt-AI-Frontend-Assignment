@@ -32,7 +32,11 @@ body, html {
     text-align: center;
     padding: 30px;
     position: relative; 
+<<<<<<< HEAD
     height: 120vh;
+=======
+    height:120vh;
+>>>>>>> 37aeb75b23ca5187a2345e4b24866eda9f3dbfa3
   }
   
   .left-half-inner1 {

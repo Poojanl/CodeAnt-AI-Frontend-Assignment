@@ -267,7 +267,11 @@ body, html {
     height: 320px;
     width: 90%;
     padding: 10px 20px 35px 20px;
+<<<<<<< HEAD
     background-color: white;
+=======
+    background-color:white;
+>>>>>>> 37aeb75b23ca5187a2345e4b24866eda9f3dbfa3
   }
 
   .platform-btn {
